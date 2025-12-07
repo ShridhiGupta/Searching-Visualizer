@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Searching Visualizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Searching Visualizer</h1>
+        
+        <!-- Controls for the Search Visualizer -->
+        <div class="controls">
+            <label for="target">Enter Target Value:</label>
+            <input type="number" id="target" value="5" onchange="updateTarget()">
+            
+            <button onclick="linearSearch()">Linear Search</button>
+            <button onclick="binarySearch()">Binary Search</button>
+            <button onclick="interpolationSearch()">Interpolation Search</button>
+            <button onclick="hashBasedSearch()">Hash-Based Search</button>
+        </div>
+        
+        <!-- Search Visualization -->
+        <div class="visualizer">
+            <h2>Search Result: <span id="result">None</span></h2>
+            <div id="array"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
