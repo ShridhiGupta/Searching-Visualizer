@@ -11,7 +11,7 @@ Enter a target value and see how different algorithms search through the array.
 ## Technologies
 HTML, CSS, JavaScript
 
-## ▶️ Run Locally
+## Run Locally
 Just open `index.html` in any browser.
 
 ## 📸 Screenshot
