@@ -15,5 +15,3 @@ HTML, CSS, JavaScript
 Just open `index.html` in any browser.
 
 ## Screenshot
-(Add image after uploading)
-
