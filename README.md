@@ -13,5 +13,3 @@ HTML, CSS, JavaScript
 
 ## Run Locally
 Just open `index.html` in any browser.
-
-## Screenshot
