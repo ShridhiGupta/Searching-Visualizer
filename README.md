@@ -8,7 +8,7 @@ Enter a target value and see how different algorithms search through the array.
 - Clean and interactive UI  
 - Default array: `1–10`
 
-## 🚀 Technologies
+## Technologies
 HTML, CSS, JavaScript
 
 ## ▶️ Run Locally
