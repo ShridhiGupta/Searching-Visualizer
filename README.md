@@ -5,7 +5,6 @@ A simple searching algorithm visualizer built with **HTML, CSS, and JavaScript**
 ## Features
 - Visualizes: Linear, Binary, Interpolation & Hash-Based Search  
 - Clean and interactive UI  
-- Default array: `1–10`
 
 ## Technologies
 HTML, CSS, JavaScript
